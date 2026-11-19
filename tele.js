@@ -3,9 +3,9 @@
 require('dotenv').config();
 var cors = require('cors');
 
-let Telegram = require('telebot');
-let TelegramToken = "1994240179:AAGmDQfq2EUrAtdVkdsABmp7tvgBNkqbrWs";
-let TelegramBot = new TeleBot(TelegramToken);
+// let Telegram = require('telebot');
+// let TelegramToken = "1994240179:AAGmDQfq2EUrAtdVkdsABmp7tvgBNkqbrWs";
+// let TelegramBot = new TeleBot(TelegramToken);
 
 
 let express = require('express');
