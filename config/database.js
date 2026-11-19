@@ -1,25 +1,8 @@
-
-//module.exports = {
-//	'url': 'mongodb://127.0.0.1:27017',
-//	'options': {
-//		'user':   'root',
-//		'pass':   '',
-//		'dbName': 'PlayGameChuan2',
-//		'useNewUrlParser': true,
-//		'useUnifiedTopology': true,
-//		//'autoIndex':       false,
-//	},
-//};
-
-
 module.exports = {
-	'url': 'mongodb://127.0.0.1:27017',
-	'options': {
-	//	'user':   'root',
-	//	'pass':   '',
-		'dbName': 'PlayGame', // red
-		'useNewUrlParser': true,
-		'useUnifiedTopology': true,
-		//'autoIndex':       false,
-	},
+  'url': 'mongodb+srv://accff27042012_db_user:VxNkgqCotn0BVzdq@cluster0.wfiydrp.mongodb.net/?retryWrites=true&w=majority',
+  'options': {
+    'dbName': 'CLUB3333',
+    'useNewUrlParser': true,
+    'useUnifiedTopology': true,
+  },
 };
